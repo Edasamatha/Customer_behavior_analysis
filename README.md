@@ -11,6 +11,9 @@ The goal of this project is to transform raw data into **meaningful insights** u
 
 ## 📂 Dataset
 
+
+<a href="https://github.com/Edasamatha/Customer_behavior_analysis/blob/main/customer_shopping_behavior.csv">Dataset</a>
+
 * The dataset used in this project contains structured data suitable for analysis.
 * It includes multiple variables used to explore patterns, trends, and relationships.
 * Data was imported into Python for preprocessing and into SQL databases for querying.
@@ -90,6 +93,7 @@ The following tools were used throughout the project:
 
 ## 📊 Dashboard
 
+<a href="https://github.com/Edasamatha/Customer_behavior_analysis/blob/main/customer_behavior.pbix">DashBoard</a>
 The Power BI dashboard includes:
 
 * 📈 Trend Analysis Charts
